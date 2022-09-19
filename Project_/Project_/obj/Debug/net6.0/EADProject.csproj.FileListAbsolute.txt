@@ -1,0 +1,8 @@
+C:\Users\Ahmad\Desktop\GITHUB\Design Pattrens\Project_\Project_\obj\Debug\net6.0\EADProject.csproj.AssemblyReference.cache
+C:\Users\Ahmad\Desktop\GITHUB\Design Pattrens\Project_\Project_\obj\Debug\net6.0\EADProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmad\Desktop\GITHUB\Design Pattrens\Project_\Project_\obj\Debug\net6.0\EADProject.AssemblyInfoInputs.cache
+C:\Users\Ahmad\Desktop\GITHUB\Design Pattrens\Project_\Project_\obj\Debug\net6.0\EADProject.AssemblyInfo.cs
+C:\Users\Ahmad\Desktop\GITHUB\Design Pattrens\Project_\Project_\obj\Debug\net6.0\EADProject.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Desktop\GITHUB\Design Pattrens\Project_\Project_\obj\Debug\net6.0\EADProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ahmad\Desktop\GITHUB\Design Pattrens\Project_\Project_\obj\Debug\net6.0\EADProject.RazorAssemblyInfo.cache
+C:\Users\Ahmad\Desktop\GITHUB\Design Pattrens\Project_\Project_\obj\Debug\net6.0\EADProject.RazorAssemblyInfo.cs

@@ -1,0 +1,35 @@
+﻿<div class="col-md-10 w-25 p-3">
+        <div class="row p-2 bg-white border rounded">
+            <div class="col text-center">
+                <img class="img-fluid img-responsive rounded product-image" src="../@Model.Image" alt="failed">
+                    <h4 class="text-primary pt-2">@Model.Make @Model.Variant @Model.Model</h4>
+                        <div>
+                            <h5 class="mr-1">PKR @Model.Price</h5>
+                        </div>
+                        <div class="d-flex flex-column mt-4"><button data-bs-toggle="modal" data-bs-target="#exampleModal" class="btn btn-primary btn-sm" type="button">Details</button>
+                        </div>
+                            
+            </div>
+        </div>      
+    </div>
+    
+                        <!-- Modal -->
+                            <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal-dialog">
+                                    <div class="modal-content">
+                                        <div class="modal-header">
+                                            <h5 class="modal-title" id="exampleModalLabel">Detail</h5>
+                                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                        </div>
+                                        <div class="modal-body">
+                                            <img src="../@Model.Image" alt="failed" class="card-img-top" width="100%">
+                                            <p>@Model.Description</p>
+                                       
+                                        </div>
+                                        <div class="modal-footer">
+                                            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                                            <button type="button" class="btn btn-danger">Contact Seller</button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
